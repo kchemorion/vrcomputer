@@ -1,4 +1,4 @@
-# AFRAME In-App Browser
+# VIRTUAL REALITY COMPUTER
 ![Demo](https://raw.githubusercontent.com/shaneharris/aframe-in-app-browser/master/demo.gif)
 
 This project is still a WIP!
