@@ -13,8 +13,8 @@ module.exports = {
         filename: "[name].js"
     },
     devServer: {
-        stats: "errors-only",
-        contentBase: __dirname+"/dist",
+        client: { overlay: false, logging: 'error' },
+        static: __dirname+"/dist",
         open:true
     },
     optimization: {
